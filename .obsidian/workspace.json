@@ -4,23 +4,71 @@
     "type": "split",
     "children": [
       {
-        "id": "106d0c77f35d9d4d",
-        "type": "tabs",
+        "id": "8585992693c39aea",
+        "type": "split",
         "children": [
           {
-            "id": "821c02df55590a59",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Root-Branch/Daily Notes/2023-07-29.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+            "id": "c0ce484f93b53514",
+            "type": "split",
+            "dimension": 68.57749469214437,
+            "children": [
+              {
+                "id": "acd19dc4b5b0faee",
+                "type": "tabs",
+                "dimension": 58.55795148247979,
+                "children": [
+                  {
+                    "id": "f7f882f754c1fae5",
+                    "type": "leaf",
+                    "state": {
+                      "type": "graph",
+                      "state": {}
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "0006395ac2ed8671",
+                "type": "tabs",
+                "dimension": 41.44204851752021,
+                "children": [
+                  {
+                    "id": "8c29f6669f64f827",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Root-Branch/Time Table.md",
+                        "mode": "source",
+                        "backlinks": true,
+                        "source": false
+                      }
+                    }
+                  }
+                ]
               }
-            }
+            ],
+            "direction": "vertical"
+          },
+          {
+            "id": "9ebd78f4b2e6ef5b",
+            "type": "tabs",
+            "dimension": 31.422505307855626,
+            "children": [
+              {
+                "id": "e6aab203a0f90a40",
+                "type": "leaf",
+                "state": {
+                  "type": "kanban",
+                  "state": {
+                    "file": "Root-Branch/To-Do List.md"
+                  }
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -94,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Root-Branch/Daily Notes/2023-07-29.md",
+                "file": "Root-Branch/To-Do List.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -111,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Root-Branch/Daily Notes/2023-07-29.md",
+                "file": "Root-Branch/To-Do List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Root-Branch/Daily Notes/2023-07-29.md"
+                "file": "Root-Branch/To-Do List.md"
               }
             }
           },
@@ -181,33 +229,34 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "821c02df55590a59",
+  "active": "f7f882f754c1fae5",
   "lastOpenFiles": [
-    "Dupe/Sem V.md",
-    "Dupe/Daily Notes/2023-07-29.md",
-    "Dupe",
-    "Dupe/To-Do List.md",
-    "Root-Branch/To-Do List.md",
     "Root-Branch/Time Table.md",
     "Root-Branch/Sem V.md",
-    "Root-Branch/Daily Notes/2023-07-27.md",
     "Root-Branch/Daily Notes/2023-07-29.md",
     "Root-Branch/Daily Notes/2023-07-28.md",
+    "Root-Branch/Daily Notes/2023-07-27.md",
     "Root-Branch/Daily Notes/2023-07-26.md",
-    "Root-Branch/Daily Notes",
     "Root-Branch/Courses/Understanding India.md",
     "Root-Branch/Courses/Statistical Methods I.md",
-    "Root-Branch/Courses/Operations Research.md",
     "Root-Branch/Courses/Research Methodology 2.md",
+    "Root-Branch/Courses/Operations Research.md",
     "Root-Branch/Courses/Object Oriented Programming.md",
-    "Root-Branch/Courses/Algorithms.md",
     "Root-Branch/Courses/Data Structures.md",
-    "Root-Branch/Courses",
+    "Root-Branch/Courses/Algorithms.md",
     "Root-Branch/Branding Work/Meetings and Agendas.md",
+    "Dupe/Daily Notes/2023-07-29.md",
+    "Dupe/Daily Notes",
+    "Dupe",
+    "Dupe/Daily Notes/2023-07-27.md",
+    "Root-Branch/To-Do List.md",
+    "Dupe/Sem V.md",
+    "Dupe/To-Do List.md",
+    "Root-Branch/Daily Notes",
+    "Root-Branch/Courses",
     "Root-Branch/Branding Work",
     "Root-Branch",
     "Dupe/Time Table.md",
-    "Dupe/Daily Notes/2023-07-27.md",
     "Dupe/Daily Notes/2023-07-28.md",
     "remote-branch/Daily Notes/2023-07-28.md",
     "remote-branch/Daily Notes/2023-07-27.md",
@@ -217,7 +266,6 @@
     "remote-branch/Courses",
     "remote-branch/Branding Work",
     "remote-branch",
-    "remote-blog",
     "Sem 5/Sem V.canvas",
     "Untitled.canvas",
     "Untitled 2.canvas",
