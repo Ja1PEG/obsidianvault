@@ -1,0 +1,264 @@
+{
+  "workspaces": {
+    "Standard": {
+      "main": {
+        "id": "69c2a13e3e8e4ab4",
+        "type": "split",
+        "children": [
+          {
+            "id": "8585992693c39aea",
+            "type": "split",
+            "children": [
+              {
+                "id": "c0ce484f93b53514",
+                "type": "split",
+                "dimension": 64.11889596602973,
+                "children": [
+                  {
+                    "id": "acd19dc4b5b0faee",
+                    "type": "tabs",
+                    "children": [
+                      {
+                        "id": "f7f882f754c1fae5",
+                        "type": "leaf",
+                        "state": {
+                          "type": "markdown",
+                          "state": {
+                            "file": "Daily Notes/2023-07-29.md",
+                            "mode": "source",
+                            "backlinks": true,
+                            "source": false
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "id": "0006395ac2ed8671",
+                    "type": "tabs",
+                    "children": [
+                      {
+                        "id": "8c29f6669f64f827",
+                        "type": "leaf",
+                        "state": {
+                          "type": "markdown",
+                          "state": {
+                            "file": "Time Table.md",
+                            "mode": "source",
+                            "backlinks": true,
+                            "source": false
+                          }
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "direction": "vertical"
+              },
+              {
+                "id": "2b42c8381d703125",
+                "type": "split",
+                "dimension": 35.881104033970274,
+                "children": [
+                  {
+                    "id": "9ebd78f4b2e6ef5b",
+                    "type": "tabs",
+                    "dimension": 55.053908355795144,
+                    "children": [
+                      {
+                        "id": "e6aab203a0f90a40",
+                        "type": "leaf",
+                        "state": {
+                          "type": "kanban",
+                          "state": {
+                            "file": "To-Do List.md"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "id": "f9ebcda5d8e8aa1a",
+                    "type": "tabs",
+                    "dimension": 44.94609164420485,
+                    "children": [
+                      {
+                        "id": "624349d7d000a365",
+                        "type": "leaf",
+                        "state": {
+                          "type": "graph",
+                          "state": {}
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "direction": "vertical"
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "4ca203888b7a6697",
+        "type": "split",
+        "children": [
+          {
+            "id": "2576c851c261ba4b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8f24f6f9e273cec0",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "bc5f95e5f527a1ef",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "a15cb09a90f00e9c",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              },
+              {
+                "id": "b3922f140ef9c861",
+                "type": "leaf",
+                "state": {
+                  "type": "tagfolder-view",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 225.51103591918945
+      },
+      "right": {
+        "id": "994d843af9a7509c",
+        "type": "split",
+        "children": [
+          {
+            "id": "4741d7345d766f7f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "38d421291fc6d1fb",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Daily Notes/2023-07-29.md",
+                    "collapseAll": true,
+                    "extraContext": true,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "a5e7793cd9c64584",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Daily Notes/2023-07-29.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "1d0046188701956a",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "a24b8c730c6f172e",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Daily Notes/2023-07-29.md"
+                  }
+                }
+              },
+              {
+                "id": "52d91bec9dc9840c",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "64c70cef7cba67ae",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 3
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "audio-recorder:Start/stop recording": false,
+          "workspaces:Manage workspace layouts": false,
+          "obsidian-advanced-slides:Show Slide Preview": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "obsidian-excalidraw-plugin:Create new drawing": false,
+          "templater-obsidian:Templater": false,
+          "obsidian-textgenerator-plugin:Generate Text!": false,
+          "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+          "markdown-importer:Open format converter": false
+        }
+      },
+      "active": "f7f882f754c1fae5"
+    }
+  },
+  "active": "Standard"
+}
