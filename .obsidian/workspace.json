@@ -4,96 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "8585992693c39aea",
-        "type": "split",
+        "id": "106d0c77f35d9d4d",
+        "type": "tabs",
         "children": [
           {
-            "id": "c0ce484f93b53514",
-            "type": "split",
-            "dimension": 64.11889596602973,
-            "children": [
-              {
-                "id": "acd19dc4b5b0faee",
-                "type": "tabs",
-                "dimension": 58.42318059299192,
-                "children": [
-                  {
-                    "id": "f7f882f754c1fae5",
-                    "type": "leaf",
-                    "state": {
-                      "type": "kanban",
-                      "state": {
-                        "file": "To-Do List.md"
-                      }
-                    }
-                  }
-                ]
-              },
-              {
-                "id": "0006395ac2ed8671",
-                "type": "tabs",
-                "dimension": 41.57681940700809,
-                "children": [
-                  {
-                    "id": "8c29f6669f64f827",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Time Table.md",
-                        "mode": "source",
-                        "backlinks": true,
-                        "source": false
-                      }
-                    }
-                  }
-                ]
+            "id": "821c02df55590a59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Root-Branch/Daily Notes/2023-07-29.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
-            ],
-            "direction": "vertical"
-          },
-          {
-            "id": "2b42c8381d703125",
-            "type": "split",
-            "dimension": 35.881104033970274,
-            "children": [
-              {
-                "id": "9ebd78f4b2e6ef5b",
-                "type": "tabs",
-                "dimension": 55.053908355795144,
-                "children": [
-                  {
-                    "id": "e6aab203a0f90a40",
-                    "type": "leaf",
-                    "state": {
-                      "type": "kanban",
-                      "state": {
-                        "file": "To-Do List.md"
-                      }
-                    }
-                  }
-                ]
-              },
-              {
-                "id": "f9ebcda5d8e8aa1a",
-                "type": "tabs",
-                "dimension": 44.946091644204856,
-                "children": [
-                  {
-                    "id": "624349d7d000a365",
-                    "type": "leaf",
-                    "state": {
-                      "type": "graph",
-                      "state": {}
-                    }
-                  }
-                ]
-              }
-            ],
-            "direction": "vertical"
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -167,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "To-Do List.md",
+                "file": "Root-Branch/Daily Notes/2023-07-29.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -184,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "To-Do List.md",
+                "file": "Root-Branch/Daily Notes/2023-07-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "To-Do List.md"
+                "file": "Root-Branch/Daily Notes/2023-07-29.md"
               }
             }
           },
@@ -254,45 +181,45 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "8f24f6f9e273cec0",
+  "active": "821c02df55590a59",
   "lastOpenFiles": [
-    "Sem V.md",
+    "Dupe/Sem V.md",
+    "Dupe/Daily Notes/2023-07-29.md",
+    "Dupe",
+    "Dupe/To-Do List.md",
+    "Root-Branch/To-Do List.md",
+    "Root-Branch/Time Table.md",
+    "Root-Branch/Sem V.md",
+    "Root-Branch/Daily Notes/2023-07-27.md",
+    "Root-Branch/Daily Notes/2023-07-29.md",
+    "Root-Branch/Daily Notes/2023-07-28.md",
+    "Root-Branch/Daily Notes/2023-07-26.md",
+    "Root-Branch/Daily Notes",
+    "Root-Branch/Courses/Understanding India.md",
+    "Root-Branch/Courses/Statistical Methods I.md",
+    "Root-Branch/Courses/Operations Research.md",
+    "Root-Branch/Courses/Research Methodology 2.md",
+    "Root-Branch/Courses/Object Oriented Programming.md",
+    "Root-Branch/Courses/Algorithms.md",
+    "Root-Branch/Courses/Data Structures.md",
+    "Root-Branch/Courses",
+    "Root-Branch/Branding Work/Meetings and Agendas.md",
+    "Root-Branch/Branding Work",
+    "Root-Branch",
+    "Dupe/Time Table.md",
+    "Dupe/Daily Notes/2023-07-27.md",
+    "Dupe/Daily Notes/2023-07-28.md",
+    "remote-branch/Daily Notes/2023-07-28.md",
+    "remote-branch/Daily Notes/2023-07-27.md",
+    "remote-branch/Daily Notes/2023-07-26.md",
+    "remote-branch/To-Do List.md",
+    "remote-branch/Daily Notes",
+    "remote-branch/Courses",
+    "remote-branch/Branding Work",
+    "remote-branch",
     "remote-blog",
-    "remote-blog",
-    "To-Do List.md",
-    "Time Table.md",
-    "Branding Work/Meetings and Agendas.md",
-    "Daily Notes/2023-07-29.md",
-    "Courses/Operations Research.md",
-    "Daily Notes/2023-07-28.md",
-    "Daily Notes/2023-07-26.md",
-    "Daily Notes/2023-07-27.md",
-    "Courses/Understanding India.md",
-    "Courses/Statistical Methods I.md",
-    "Courses/Object Oriented Programming.md",
-    "Day Planners/Day Planner-20230727.md",
-    "Day Planners",
-    "Day Planners/Day Planner-20230725.md",
-    "sad.md",
-    "2023-07-27.md",
-    "2023-W30.md",
-    "Courses/Research Methodology 2.md",
-    "Daily Notes",
-    "Reasoning.md",
-    "Courses/Algorithms.md",
-    "Courses/Data Structures.md",
     "Sem 5/Sem V.canvas",
-    "Day Planners/Day Planner-20230726.md",
-    "Branding Work",
-    "textgenerator/prompts/default/summarize.md",
-    "textgenerator/prompts/default/getOutline.md",
-    "textgenerator/prompts/default/getTitles.md",
-    "textgenerator/prompts/default",
-    "textgenerator/prompts",
-    "textgenerator",
     "Untitled.canvas",
-    "Untitled 1",
-    "Courses",
     "Untitled 2.canvas",
     "Untitled 3.canvas",
     "Untitled 1.canvas"
