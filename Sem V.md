@@ -22,12 +22,6 @@
 [[Research Methodology 2]]
 [[Understanding India]]
 
-
-
 # Sem V To-Do List
 
 [[To-Do List]]
-
-Github Token:
-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
-
