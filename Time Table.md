@@ -1,5 +1,5 @@
 ---
-tags: sem5, core
+tags: sem5
 ---
 
 | Time       | Monday            | Tuesday                   | Wednesday    | Thursday                  | Friday            |
