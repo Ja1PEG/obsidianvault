@@ -11,17 +11,19 @@ tags: to-do
 
 ## Extra Curricular
 
+- [ ] Video Game Club
 
 
 ## Branding Work
 
+- [ ] Transcontinental Coverage
+- [ ] Create a Report (List of Camera Stuff)
 - [ ] Learn Figma
 
 
 ## In Progress
 
-- [ ] Video Game Club
-- [ ] Create a Report (List of Camera Stuff)
+- [ ] Verse-T Fest Coverage
 - [ ] SLF Video (Next Draft)
 
 
