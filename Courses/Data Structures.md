@@ -4,6 +4,7 @@ tags: sem5, computer-science, C, C++
 Lecture List
 ==
 #### [[2023-07-31]] First Lecture
+#### [[2023-08-04]] Second Lecture
 
 Assignment List
 ==
