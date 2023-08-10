@@ -7,6 +7,7 @@ tags: to-do
 
 ## Assignment List
 
+- [ ] Understanding India Test (22/08)
 
 
 ## Extra Curricular
@@ -16,15 +17,14 @@ tags: to-do
 
 ## Branding Work
 
-- [ ] Transcontinental Coverage
+- [ ] Common Area: Staged Video
 - [ ] Create a Report (List of Camera Stuff)
 - [ ] Learn Figma
 
 
 ## In Progress
 
-- [ ] Verse-T Fest Coverage
-- [ ] SLF Video (Next Draft)
+- [ ] SSLA Film
 
 
 ## Completed
@@ -36,6 +36,9 @@ tags: to-do
 
 ## Archive
 
+- [x] Verse-T Fest Coverage
+- [x] SLF Video (Next Draft)
+- [x] Transcontinental Coverage
 - [x] SLF Video <br>Draft by Wednesday<br>Saturday it needs to be uploaded
 - [x] Website Cell Dissolution Meeting (Wednesday, 11:45)
 - [x] Meeting at 11:45 (29-07-23)
