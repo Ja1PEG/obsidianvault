@@ -8,6 +8,9 @@ tags: to-do
 ## Assignment List
 
 - [ ] Understanding India Test (22/08)
+- [ ] OOP In-Class Test (24/08)
+- [ ] Statistics Test (28/08)
+- [ ] RM2 Test (02/09)
 
 
 ## Extra Curricular
