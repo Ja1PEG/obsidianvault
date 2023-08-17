@@ -4,8 +4,9 @@ tags: sem5, core, history
 
 Lecture List
 ==
-#### [[2023-07-27]] Second Lecture
-#### [[2023-08-03]] Third Lecture
+#### [[2023-07-27]] State-Nation Nation-State Identities
+#### [[2023-08-03]] Psychology of Colonialism
+#### [[2023-08-17]] Psychology of Colonialism 
 Assignment List
 ==
 
