@@ -8,7 +8,7 @@ Lecture List
 #### [[2023-08-02]] Third Lecture
 #### [[2023-08-09]] Fourth Lecture
 #### [[2023-08-10]] Fifth Lecture
-
+#### [[2023-08-17]] Static and Access Modifiers
 Assignment List
 ==
 

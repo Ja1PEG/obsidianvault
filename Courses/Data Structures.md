@@ -6,6 +6,7 @@ Lecture List
 #### [[2023-07-31]] First Lecture
 #### [[2023-08-04]] Second Lecture
 #### [[2023-08-11]] Third Lecture
+#### [[2023-08-18]] Queues
 
 Assignment List
 ==

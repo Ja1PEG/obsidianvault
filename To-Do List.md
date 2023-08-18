@@ -20,9 +20,10 @@ tags: to-do
 
 ## Branding Work
 
+- [ ] Common Commencement (23/08)
+- [ ] Learn Figma
 - [ ] Common Area: Staged Video
 - [ ] Create a Report (List of Camera Stuff)
-- [ ] Learn Figma
 
 
 ## In Progress
