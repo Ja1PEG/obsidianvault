@@ -8,7 +8,7 @@
 
 ## Majors:
 
-[[Data Structures]]
+[[Root-Branch/Courses/Data Structures]]
 [[Algorithms]]
 [[Operations Research]]
 

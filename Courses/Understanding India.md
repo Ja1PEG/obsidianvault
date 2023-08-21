@@ -12,3 +12,4 @@ Assignment List
 
 Readings
 ==
+#### [[Romila Thapar Paper]]

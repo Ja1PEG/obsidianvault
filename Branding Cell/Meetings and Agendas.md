@@ -6,3 +6,4 @@ tags: branding
 # [[2023-08-02]] Website Cell Meeting
 # [[2023-08-10]] SSLA Film Meeting
 # [[2023-08-16]] Website Meeting
+# [[2023-08-18]] First Bi-Weekly Meeting
