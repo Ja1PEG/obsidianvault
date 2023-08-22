@@ -8,6 +8,7 @@ Lecture List
 #### [[2023-08-08]] Comparative Case Studies
 #### [[2023-08-09]] Example through Humour Studies
 #### [[2023-08-16]] Statistical Sampling
+#### [[2023-08-22]] Survey Methods
 
 Assignment List
 ==
