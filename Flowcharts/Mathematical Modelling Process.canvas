@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"a64d9797f55248b2","x":-640,"y":-260,"width":250,"height":60,"type":"text","text":"Identify and Specify the Problem to be solved"},
+		{"id":"b25728888d5e2d70","x":-295,"y":-260,"width":207,"height":60,"type":"text","text":"Make Assumptions and Define Essential Variables"},
+		{"id":"8662399d84d542ec","x":55,"y":-260,"width":250,"height":60,"type":"text","text":"Do the Math Get a Solution"},
+		{"id":"e075de32ac593937","x":-316,"y":-20,"width":256,"height":60,"type":"text","text":"Iterate As need to refine and extend the model"},
+		{"id":"19079c66f5cd685a","x":55,"y":-20,"width":250,"height":60,"type":"text","text":"Analyze and Assess the model and solutions"},
+		{"id":"7fa9cdfb70a93dca","x":-680,"y":-20,"width":250,"height":60,"type":"text","text":"Implement the Model and report the results"}
+	],
+	"edges":[
+		{"id":"2dcc3510b19c2b96","fromNode":"a64d9797f55248b2","fromSide":"right","toNode":"b25728888d5e2d70","toSide":"left"},
+		{"id":"4123dc80ed428b2a","fromNode":"b25728888d5e2d70","fromSide":"right","toNode":"8662399d84d542ec","toSide":"left"},
+		{"id":"9fedc6117f684f40","fromNode":"b25728888d5e2d70","fromSide":"bottom","toNode":"e075de32ac593937","toSide":"top"},
+		{"id":"8caa396288a3866c","fromNode":"8662399d84d542ec","fromSide":"bottom","toNode":"19079c66f5cd685a","toSide":"top"},
+		{"id":"7c3dbb697e451bcb","fromNode":"19079c66f5cd685a","fromSide":"left","toNode":"e075de32ac593937","toSide":"right"},
+		{"id":"2b0e5e85de9f6e1a","fromNode":"19079c66f5cd685a","fromSide":"top","toNode":"b25728888d5e2d70","toSide":"bottom"},
+		{"id":"32e560f1cc1e698e","fromNode":"19079c66f5cd685a","fromSide":"top","toNode":"8662399d84d542ec","toSide":"bottom"},
+		{"id":"6d15ddf73205cf9c","fromNode":"8662399d84d542ec","fromSide":"left","toNode":"b25728888d5e2d70","toSide":"right"},
+		{"id":"fc9268c3fe22298b","fromNode":"e075de32ac593937","fromSide":"top","toNode":"a64d9797f55248b2","toSide":"bottom"},
+		{"id":"78fbc7646dad6190","fromNode":"e075de32ac593937","fromSide":"left","toNode":"7fa9cdfb70a93dca","toSide":"right"}
+	]
+}

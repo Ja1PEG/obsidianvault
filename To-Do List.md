@@ -7,10 +7,6 @@ tags: to-do
 
 ## Assignment List
 
-- [ ] Understanding India Test (22/08)
-- [ ] OOP In-Class Test (24/08)
-- [ ] Statistics Test (28/08)
-- [ ] RM2 Test (02/09)
 
 
 ## Extra Curricular
@@ -27,7 +23,6 @@ tags: to-do
 
 ## In Progress
 
-- [ ] Common Commencement (23/08)
 
 
 ## Completed
@@ -49,6 +44,11 @@ tags: to-do
 - [x] SSLA Film Discussion Meeting (Monday, 12:30)
 - [x] Edit the two SSLA Videos and Upload in the Bournemouth Drive
 - [x] Accumulate more footage from previous Drives for Bournemouth by Friday
+- [x] OOP In-Class Test (24/08)
+- [x] Common Commencement (23/08)
+- [x] Statistics Test (28/08)
+- [x] RM2 Test (02/09)
+- [x] Understanding India Test (29/08)
 
 %% kanban:settings
 ```
