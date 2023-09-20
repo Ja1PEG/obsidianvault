@@ -9,7 +9,6 @@ cssclasses:
 
 ## Household Chores
 
-- [ ] Wash Clothes
 - [ ] Pack Clothes
 - [ ] Clean Table
 
@@ -23,6 +22,7 @@ cssclasses:
 ## Done Chores
 
 **Complete**
+- [x] Wash Clothes
 
 
 

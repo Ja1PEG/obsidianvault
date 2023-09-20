@@ -14,6 +14,7 @@ Lecture List
 #### [[2023-09-05]] Hypotheses Testing
 #### [[2023-09-06]] Mathematical Modeling
 #### [[2023-09-13]] Qualitative Interviews
+#### [[2023-09-20]] Qualitative Interviews 2
 
 Assignment List
 ==
