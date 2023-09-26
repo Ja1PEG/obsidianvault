@@ -25,3 +25,6 @@
 # Sem V To-Do List
 
 [[To-Do List]]
+
+# Guest Lectures:
+[[CS Guest Lecture]] 
