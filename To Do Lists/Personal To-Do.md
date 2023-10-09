@@ -9,7 +9,7 @@ cssclasses:
 
 ## Household Chores
 
-- [ ] Pack Clothes
+- [ ] Clean Table
 
 
 ## Misc. Things to Do
@@ -21,7 +21,7 @@ cssclasses:
 ## Done Chores
 
 **Complete**
-- [x] Clean Table
+- [x] Pack Clothes
 
 
 ***

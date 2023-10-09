@@ -17,7 +17,7 @@ Lecture List
 #### [[2023-09-20]] Exception Handling 3
 Assignment List
 ==
-
+#### [[Exception Handling in Java]]
 Readings
 ==
 	

@@ -1,30 +1,25 @@
+---
+tags:
+  - sem5
+---
 # Time Table
-[[Time Table]]
-
-# Co-Curriculars:
-[[Meetings and Agendas]]
-
+### [[Time Table]]
 # Courses Taken:
 
 ## Majors:
-
-[[Root-Branch/Courses/Data Structures]]
-[[Algorithms]]
-[[Operations Research]]
+### [[Root-Branch/Courses/Data Structures]]
+### [[Algorithms]]
+### [[Operations Research]]
 
 ## Minors:
-
-[[Statistical Methods I]]
-[[Object Oriented Programming]]
+### [[Statistical Methods I]]
+### [[Object Oriented Programming]]
 
 ## Cores:
-
-[[Research Methodology 2]]
-[[Understanding India]]
+### [[Research Methodology 2]]
+### [[Understanding India]]
 
 # Sem V To-Do List
+### [[To-Do List]]
 
-[[To-Do List]]
-
-# Guest Lectures:
-[[CS Guest Lecture]] 
+# Guest Lectures
