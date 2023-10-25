@@ -23,3 +23,4 @@ tags:
 ### [[To-Do List]]
 
 # Guest Lectures
+## [[Zotero Workshop]]

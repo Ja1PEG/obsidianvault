@@ -6,7 +6,8 @@ tags:
 ---
 # [[Understanding India]]
 
-## ['Dead Certainties' and the Politics of Textbook Writing by Janaki Nair](https://www.jstor.org/stable/6c18c11a-e8c4-3259-850b-e85a47568799?searchText=Indian+History+books+NCERT&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3DIndian%2BHistory%2Bbooks%2BNCERT&ab_segments=0%2Fbasic_search_gsv2%2Fcontrol&refreqid=fastly-default%3A47b1c0d18b3e071cce0c4d0923a58404&seq=5)
+## ['Dead Certainties' and the Politics of Textbook Writing by 
+Janaki Nair](https://www.jstor.org/stable/6c18c11a-e8c4-3259-850b-e85a47568799?searchText=Indian+History+books+NCERT&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3DIndian%2BHistory%2Bbooks%2BNCERT&ab_segments=0%2Fbasic_search_gsv2%2Fcontrol&refreqid=fastly-default%3A47b1c0d18b3e071cce0c4d0923a58404&seq=5)
 
 - Politics of Retaliation that tackles textbook writing
 - Disparity in the distribution of textbooks in regions based on the chosen board of education (CBSE, ICSE, State Board)
@@ -74,7 +75,7 @@ struggles of labouring people
 - As a consequence, the English texts appeared as the bearer of a democratic, secular and nationalist vision, while the translated texts were inscribed with the marks of local cultures and particularistic visions.
 	- The act of translation, as we know, is always an act of transculturation, If the national sought to homogenize, erasing the particular and the local in an effort to produce the trans-local, vernacularisation reinscribed the particular on to the homogenous national, producing a hybrid text which reflected a range of conflicting pressures within society.
 
-Thapar's vision of the professionalized production of knowledge seemed to crumble as history books were burnt on the streets of Bihar and historians' efT1gies went up in flames on the parade grounds in Delhi.
+Thapar's vision of the professionalized production of knowledge seemed to crumble as history books were burnt on the streets of Bihar and historians' effigies went up in flames on the parade grounds in Delhi.
 
 - The textbooks of the 60s had two objectives:
 	- They sought to decolonize the texts: Earlier texts often borrowed uncritically from officials like Vincent Smith and offered readings shaped by colonial stereotypes

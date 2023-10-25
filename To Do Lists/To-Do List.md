@@ -7,6 +7,8 @@ tags: to-do
 
 ## Assignment List
 
+- [ ] SM1 Test (30/10)
+- [ ] OOP CA-4 (02/11)
 
 
 ## Extra Curricular
@@ -23,12 +25,17 @@ tags: to-do
 
 ## In Progress
 
+- [ ] SSLA Film
 
 
 ## Completed
 
 **Complete**
-- [x] SSLA Film
+- [x] Algorithms Presentation (23/10)
+- [x] OR Test (20/10)
+- [x] OOP Test (19/10)
+- [x] UI CA-3 (15/10)
+- [x] Zotero Workshop
 
 
 ***

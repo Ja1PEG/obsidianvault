@@ -15,9 +15,15 @@ Lecture List
 #### [[2023-09-06]] Mathematical Modeling
 #### [[2023-09-13]] Qualitative Interviews
 #### [[2023-09-20]] Qualitative Interviews 2
+#### [[2023-10-10]] Textual Analysis
+#### [[2023-10-11]] Visual Analysis
 
 Assignment List
 ==
 
 Readings
 ==
+
+# Guest Lectures
+==
+#### [[Zotero Workshop]]

@@ -9,7 +9,7 @@ cssclasses:
 
 ## Household Chores
 
-- [ ] Clean Table
+- [ ] Pack Clothes
 
 
 ## Misc. Things to Do
@@ -21,7 +21,6 @@ cssclasses:
 ## Done Chores
 
 **Complete**
-- [x] Pack Clothes
 
 
 ***
@@ -29,6 +28,7 @@ cssclasses:
 ## Archive
 
 - [x] Wash Clothes
+- [x] Clean Table
 
 %% kanban:settings
 ```
