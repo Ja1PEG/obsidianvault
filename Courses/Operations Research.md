@@ -7,6 +7,7 @@ Lecture List
 
 Assignment List
 ==
+[[Minimum Network Cost Problems]] 
 
 Readings
 ==

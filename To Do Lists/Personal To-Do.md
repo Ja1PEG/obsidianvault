@@ -9,12 +9,10 @@ cssclasses:
 
 ## Household Chores
 
-- [ ] Pack Clothes
 
 
 ## Misc. Things to Do
 
-- [ ] Set up Netting for Simba
 - [ ] Buy New Litter Tray + Sheuli Wide Bucket to wash clothes
 
 
@@ -29,6 +27,8 @@ cssclasses:
 
 - [x] Wash Clothes
 - [x] Clean Table
+- [x] Set up Netting for Simba
+- [x] Pack Clothes
 
 %% kanban:settings
 ```

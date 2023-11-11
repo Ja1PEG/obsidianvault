@@ -7,20 +7,20 @@ tags: to-do
 
 ## Assignment List
 
-- [ ] SM1 Test (30/10)
-- [ ] OOP CA-4 (02/11)
+- [ ] OR SEE Test (26/11)
+- [ ] Math SEE Submission (27/11)
+- [ ] Math SEE Viva (30/11)
+- [ ] Understanding India SEE Test
 
 
 ## Extra Curricular
 
-- [ ] Video Game Club
 
 
 ## Branding Work
 
-- [ ] Learn Figma
-- [ ] Common Area: Staged Video
 - [ ] Create a Report (List of Camera Stuff)
+- [ ] Learn Figma
 
 
 ## In Progress
@@ -31,17 +31,13 @@ tags: to-do
 ## Completed
 
 **Complete**
-- [x] Algorithms Presentation (23/10)
-- [x] OR Test (20/10)
-- [x] OOP Test (19/10)
-- [x] UI CA-3 (15/10)
-- [x] Zotero Workshop
 
 
 ***
 
 ## Archive
 
+- [x] Video Game Club
 - [x] Verse-T Fest Coverage
 - [x] SLF Video (Next Draft)
 - [x] Transcontinental Coverage
@@ -56,6 +52,17 @@ tags: to-do
 - [x] Statistics Test (28/08)
 - [x] RM2 Test (02/09)
 - [x] Understanding India Test (29/08)
+- [x] SM1 Test (30/10)
+- [x] Algorithms Presentation (23/10)
+- [x] OR Test (20/10)
+- [x] OOP Test (19/10)
+- [x] UI CA-3 (15/10)
+- [x] Zotero Workshop
+- [x] Common Area: Staged Video
+- [x] COP Presentation (03/11)
+- [x] OR Presentation (31/10)
+- [x] OOP CA-4 (02/11)
+- [x] DSA Test (06/11)
 
 %% kanban:settings
 ```
