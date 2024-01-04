@@ -2,7 +2,8 @@
 tags:
   - sem6
   - core
-  - Finance
+  - mathematics
+  - statistics
 ---
 
 Lecture List

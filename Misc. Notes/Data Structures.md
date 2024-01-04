@@ -1,3 +1,11 @@
+---
+tags:
+  - sem5
+  - C
+  - computer-science
+  - data-structures
+---
+
 # [[Root-Branch/Finished Courses/Data Structures|Data Structures]] How a linked List Works:
 
 ```c++
