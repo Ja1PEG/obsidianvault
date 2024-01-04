@@ -7,10 +7,6 @@ tags: to-do
 
 ## Assignment List
 
-- [ ] OR SEE Test (26/11)
-- [ ] Math SEE Submission (27/11)
-- [ ] Math SEE Viva (30/11)
-- [ ] Understanding India SEE Test
 
 
 ## Extra Curricular
@@ -25,6 +21,7 @@ tags: to-do
 
 ## In Progress
 
+- [ ] Understanding India SEE Test
 - [ ] SSLA Film
 
 
@@ -63,6 +60,9 @@ tags: to-do
 - [x] OR Presentation (31/10)
 - [x] OOP CA-4 (02/11)
 - [x] DSA Test (06/11)
+- [x] Math SEE Viva (30/11)
+- [x] Math SEE Submission (27/11)
+- [x] OR SEE Test (26/11)
 
 %% kanban:settings
 ```

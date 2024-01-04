@@ -2,12 +2,10 @@
 tags:
   - sem5
 ---
-# Time Table
-### [[Time Table]]
 # Courses Taken:
 
 ## Majors:
-### [[Root-Branch/Courses/Data Structures]]
+### [[Root-Branch/Finished Courses/Data Structures]]
 ### [[Algorithms]]
 ### [[Operations Research]]
 
@@ -20,7 +18,6 @@ tags:
 ### [[Understanding India]]
 
 # Sem V To-Do List
-### [[To-Do List]]
 
 # Guest Lectures
 ## [[Zotero Workshop]]

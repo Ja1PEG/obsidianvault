@@ -13,6 +13,8 @@ Lecture List
 #### [[2023-10-27]] Heaps
 #### [[2023-10-30]] HeapSort
 #### [[2023-11-03]] Graphs/MST
+#### [[2023-11-17]] Mathematical Understanding of Recursion
+
 Assignment List
 ==
 

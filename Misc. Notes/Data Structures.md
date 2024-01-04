@@ -1,4 +1,4 @@
-# [[Root-Branch/Courses/Data Structures|Data Structures]] How a linked List Works:
+# [[Root-Branch/Finished Courses/Data Structures|Data Structures]] How a linked List Works:
 
 ```c++
 struct node{

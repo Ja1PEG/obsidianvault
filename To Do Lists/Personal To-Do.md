@@ -13,7 +13,6 @@ cssclasses:
 
 ## Misc. Things to Do
 
-- [ ] Buy New Litter Tray + Sheuli Wide Bucket to wash clothes
 
 
 ## Done Chores
@@ -29,6 +28,7 @@ cssclasses:
 - [x] Clean Table
 - [x] Set up Netting for Simba
 - [x] Pack Clothes
+- [x] Buy New Litter Tray + Sheuli Wide Bucket to wash clothes
 
 %% kanban:settings
 ```
