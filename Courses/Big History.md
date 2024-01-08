@@ -7,6 +7,7 @@ tags:
 
 Lecture List
 ==
+### [[2024-01-04]] Intro Class
 Assignment List
 ==
 

@@ -9,6 +9,7 @@ tags:
 ## Majors:
 ### [[Advanced Calculus]]
 ### [[Machine Learning]]
+### [[Research Methodology 3]] Mathematics and Statistics
 ## Minors:
 ### [[RDBMS]]
 ### [[Statistical Methods 2 - Hypothesis Testing]]

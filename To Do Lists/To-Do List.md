@@ -21,7 +21,6 @@ tags: to-do
 
 ## In Progress
 
-- [ ] Understanding India SEE Test
 - [ ] SSLA Film
 
 
@@ -63,6 +62,7 @@ tags: to-do
 - [x] Math SEE Viva (30/11)
 - [x] Math SEE Submission (27/11)
 - [x] OR SEE Test (26/11)
+- [x] Understanding India SEE Test
 
 %% kanban:settings
 ```

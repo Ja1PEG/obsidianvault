@@ -9,10 +9,14 @@ cssclasses:
 
 ## Household Chores
 
+- [ ] Wash Clothes
+- [ ] Sweep Floors
 
 
 ## Misc. Things to Do
 
+- [ ] Pest Control
+- [ ] Clean Simba
 
 
 ## Done Chores
