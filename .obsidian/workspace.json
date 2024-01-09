@@ -36,13 +36,8 @@
                     "id": "8c29f6669f64f827",
                     "type": "leaf",
                     "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Root-Branch/Time Table.md",
-                        "mode": "source",
-                        "backlinks": true,
-                        "source": false
-                      }
+                      "type": "empty",
+                      "state": {}
                     }
                   }
                 ]
@@ -59,10 +54,8 @@
                 "id": "e6aab203a0f90a40",
                 "type": "leaf",
                 "state": {
-                  "type": "kanban",
-                  "state": {
-                    "file": "Root-Branch/To-Do List.md"
-                  }
+                  "type": "empty",
+                  "state": {}
                 }
               }
             ]
@@ -142,7 +135,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Root-Branch/To-Do List.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -159,7 +151,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Root-Branch/To-Do List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,9 +172,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Root-Branch/To-Do List.md"
-              }
+              "state": {}
             }
           },
           {
@@ -220,13 +209,13 @@
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
       "workspaces:Manage workspace layouts": false,
+      "markdown-importer:Open format converter": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "templater-obsidian:Templater": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
-      "markdown-importer:Open format converter": false
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
   "active": "f7f882f754c1fae5",
