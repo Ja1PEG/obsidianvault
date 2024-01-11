@@ -9,6 +9,7 @@ Lecture List
 ==
 ## [[2024-01-04]] Intro Day
 ## [[2024-01-08]] Risk v Returns
+## [[2024-01-11]] Capital
 Assignment List
 ==
 
