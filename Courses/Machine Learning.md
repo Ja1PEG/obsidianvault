@@ -9,6 +9,8 @@ tags:
 Lecture List
 ==
 ## [[2024-01-09]] Intro
+## [[2024-01-12]] Lecture 2
+## [[2024-01-16]] Probability
 Assignment List
 ==
 
