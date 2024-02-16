@@ -1,5 +1,8 @@
 ---
-tags: research, sem5, core
+tags:
+  - sem5
+  - research
+  - core
 ---
 Lecture List
 ==
