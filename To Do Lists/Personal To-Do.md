@@ -10,13 +10,11 @@ cssclasses:
 ## Household Chores
 
 - [ ] Wash Clothes
-- [ ] Sweep Floors
 
 
 ## Misc. Things to Do
 
 - [ ] Pest Control
-- [ ] Clean Simba
 
 
 ## Done Chores
@@ -33,6 +31,8 @@ cssclasses:
 - [x] Set up Netting for Simba
 - [x] Pack Clothes
 - [x] Buy New Litter Tray + Sheuli Wide Bucket to wash clothes
+- [x] Sweep Floors
+- [x] Clean Simba
 
 %% kanban:settings
 ```
