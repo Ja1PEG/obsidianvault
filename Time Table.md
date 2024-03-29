@@ -11,4 +11,4 @@ tags:
 | 12:30-2:30 | QR1 TA (MPH) | ML (CS Lab) | QR1 TA (MPH) |  |  | Adv Calc. (302) |
 | 2:45-4:45 | QR2 (MPH) | RDBMS (CS Lab) | RDBMS (CS Lab) | Python TA (CS Lab) | Python TA (CS Lab) |  |
 | 5:00-7:00 | Big History (MPH) | Adv Calc (302) |  | Big History (MPH) |  |  |
-``
+

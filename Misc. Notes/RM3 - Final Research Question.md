@@ -50,8 +50,30 @@ Look at Tic-Tac-Toe as a Case Study to establish the proposal
 	Pilot the idea, look at the game and the player both
 
 Gradual Transition from Deterministic to Stochastic 
+
 Tic-Tac-Toe (Bias due to chance is very low -  Calculate Pay-Off in the Game - Show the Maths for the same)
 	1. Positive Pay-Off: 
 	2. Negative Pay-Off: 
 
 Looking at Probability of occupation || Setting up a Pay-Off Points Table ||  
+
+https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2021-2022/Makalah2021/Makalah-Matdis-2021%20(148).pdf
+
+1. Win: Complete a three-in-a-row.
+2. Block: Block the opponent from a three-in-a-row.
+3. Fork: Create two possible three-in-a-rows.
+4. Block Fork: Block opponent from making a fork.
+5. Center: Play center if blank
+6. Opposite Corner: Play the opposite corner of opponent.
+7. Corner: Play corner if blank
+8. Side: Play side if blank
+
+In game theory, a game like tic-tac-toe that always results in a draw is called a futile game. Permits a draw or Tie
+
+Minimum Turns required to complete a game would be 5 - With 3 X's and 2 O's
+Using Combinatorics and the Sum Rule on Configurations possible under 5 to 9  turns (That tells us the number of winning Configurations)
+
+If we only calculate the possibilities for the first player to win We can only measure Turns - 5, 7, 9
+![[Pasted image 20240223101238.png]]
+
+Board Game Convention in Mumbai - Surveying 
