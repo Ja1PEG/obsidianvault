@@ -2,6 +2,7 @@
 tags:
   - research
   - mathematics
+  - sem6
 ---
 ## [[Research Methodology 3]]
 The aim is to model enjoyability of a **particular** game using one of the two main ideologies: Agent-Based modelling or Utility Theory. 

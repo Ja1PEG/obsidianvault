@@ -1,3 +1,10 @@
+---
+tags:
+  - mathematics
+  - research
+  - sem6
+---
+
 # [[Research Methodology 3]] Blackjack
 **BlackJack** would be a sample for now:
 

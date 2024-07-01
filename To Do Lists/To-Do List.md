@@ -13,17 +13,6 @@ tags: to-do
 
 
 
-## Branding Work
-
-- [ ] Create a Report (List of Camera Stuff)
-- [ ] Learn Figma
-
-
-## In Progress
-
-- [ ] SSLA Film
-
-
 ## Completed
 
 **Complete**
@@ -33,6 +22,9 @@ tags: to-do
 
 ## Archive
 
+- [ ] SSLA Film
+- [ ] Create a Report (List of Camera Stuff)
+- [ ] Learn Figma
 - [x] Video Game Club
 - [x] Verse-T Fest Coverage
 - [x] SLF Video (Next Draft)

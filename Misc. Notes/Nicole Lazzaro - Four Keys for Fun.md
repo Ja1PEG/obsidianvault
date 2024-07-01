@@ -1,3 +1,10 @@
+---
+tags:
+  - mathematics
+  - research
+  - sem6
+---
+# [[Research Methodology 3]] 
 The paper "Why we Play Games: Four keys to more emotion without story" looks at the rationale behind people playing games outside of enjoying the story. The research conducted by specialists discovered that people tend to enjoy playing games not so much for the game itself, but instead for the experiences associated with the act of gaming. The paper primarily looked at Video Games and took a certain number of Hardcore, Casual and Non-Gamers for their study.
 
 To collect the opinions of non-players about gaming, they also interviewed 15 friends and family members of participants who were nearby during the observation sessions.
